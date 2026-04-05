@@ -1,4 +1,4 @@
-# Profit & Loss Forecasting Model (Excel + Data Analysis Project)
+# Profit & Loss Forecasting Model
 ![](p&L_LandingPage.png)
 
 ## Project Overview
@@ -20,7 +20,7 @@ Businesses need to:
 * Predict future growth based on realistic assumptions
 
 ## Model Breakdown
-![](p&lforecast.png)
+![](p&Lforecast.png)
 ### 1. Revenue Analysis
 * Historical revenue growth tracked across 2022–2024
 * Growth trends analyzed (93%, 47%, etc.)
@@ -77,7 +77,7 @@ Revenue forecast is based on 3 key drivers:
 ```text
 Final Forecast Growth Rate = Average of all 3 factors
 ```
-![](revenue_forcast_factor.png)
+![](revenue_forecast_factor.png)
 This directly drives revenue projections.
 
 ##  Key Insights
